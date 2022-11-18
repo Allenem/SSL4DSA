@@ -1,0 +1,5 @@
+.history/
+__pycache__/
+code/__pycache__/
+code/networks/__pycache__/
+code/utils/__pycache__/
