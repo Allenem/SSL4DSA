@@ -1,6 +1,6 @@
 # SSL4DSA
 
-This repository is the Python (Pytorch) implement of paper 'Yao Pu, et al., Semi-supervised Segmentation of Coronary DSA using Mixed Networks and Multi-strategies'. **Semi-Supervised Learning** (SSL), **Inception Swin-Unet** (ISUnet), **Pyramid consistency Learning** (PL), & **Confidence Learning** (CL) are adopted in to segment the coronary artery of human in Digital Subtraction Angiography (DSA) images.
+This repository is the Python (Pytorch) implement of paper 'Yao Pu, et al., Semi-supervised Segmentation of Coronary DSA using Mixed Networks and Multi-strategies'(https://www.sciencedirect.com/science/article/pii/S001048252201201X). **Semi-Supervised Learning** (SSL), **Inception Swin-Unet** (ISUnet), **Pyramid consistency Learning** (PL), & **Confidence Learning** (CL) are adopted in to segment the coronary artery of human in Digital Subtraction Angiography (DSA) images.
 
 ```
 @article{pu2022semi,
